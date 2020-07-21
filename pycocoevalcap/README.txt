@@ -1,0 +1,1 @@
+This code of evaluate metric comes from 'https://github.com/tylin/coco-caption/tree/master/pycocoevalcap'. Thanks to Tsung-Yi Lin and MSCOCO.
